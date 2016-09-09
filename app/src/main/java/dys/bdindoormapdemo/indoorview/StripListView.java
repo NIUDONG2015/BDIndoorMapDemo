@@ -18,7 +18,7 @@ import android.widget.RelativeLayout;
 /**
  * 楼层条View
  */
-public class StripListView extends ListView {
+public class StripListView extends ListView{
     public StripListView(Context context) {
         super(context);
         initView(context);
